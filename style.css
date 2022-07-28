@@ -1,0 +1,25 @@
+body{
+    background-color: aliceblue;
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 300;
+}
+
+#app{
+    background-color: aquamarine;
+}
+
+#game{
+    background-color: blue;
+}
+
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
